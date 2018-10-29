@@ -1,0 +1,1 @@
+{  "card": {  "number": "1234",  "expiryMonth": "9",  "expiryYear": "2018",  "cvc": "456",  "holderName":"Li Wang" },  "amount": {"value":3000, "currency": "EUR"},   "reference": "1234E",  "merchantAccount": "MASTER CARD"}
